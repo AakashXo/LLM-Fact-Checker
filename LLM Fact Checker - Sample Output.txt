@@ -1,0 +1,24 @@
+[
+  {
+    "claim": "NBA released ₹39.84 crore to Andhra Pradesh for Red Sanders conservation.",
+    "verdict": "True",
+    "reasoning": "The claim mentions a value close to the official PIB figure ₹39.84 crore.",
+    "evidence": [
+      "NBA released ₹39.84 crore to Andhra Pradesh for Red Sanders Protection and Conservation"
+    ]
+  },
+  {
+    "claim": "Government will give ₹50,000 to every citizen to travel abroad next year.",
+    "verdict": "Unverifiable",
+    "reasoning": "The claim does not match any official PIB data and cannot be verified.",
+    "evidence": []
+  },
+  {
+    "claim": "NBA released ₹390.84 crore to Andhra Pradesh for Red Sanders conservation.",
+    "verdict": "False",
+    "reasoning": "The claim mentions ₹390.84 crore, but the official PIB figure is ₹39.84 crore.",
+    "evidence": [
+      "NBA released ₹39.84 crore to Andhra Pradesh for Red Sanders Protection and Conservation"
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+faiss-cpu
+sentence-transformers
+spacy
+openai
+tqdm
+streamlit
+nltk
+requests
+beautifulsoup4
+pandas
